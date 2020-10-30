@@ -1,6 +1,6 @@
 # svelte adapter
 
-An svelte adapter for react written in typescript. Heavily inspirate by [svelte-adapter](https://github.com/pngwn/svelte-adapter) and [react-svelte](https://github.com/Rich-Harris/react-svelte)
+An svelte adapter for react written in typescript. Heavily inspired by [svelte-adapter](https://github.com/pngwn/svelte-adapter) and [react-svelte](https://github.com/Rich-Harris/react-svelte)
 
 ## Getting started
 
