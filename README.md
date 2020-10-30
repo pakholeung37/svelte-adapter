@@ -1,6 +1,6 @@
-# rollup-starter-ts
+# svelte adapter
 
-To fast start a typescript library.  
+An svelte adapter for react written in typescript. Heavily inspirate by [svelte-adapter](https://github.com/pngwn/svelte-adapter) and [react-svelte](https://github.com/Rich-Harris/react-svelte)
 
 ## Getting started
 
