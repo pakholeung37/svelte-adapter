@@ -1,1 +1,3 @@
-console.log("helloDebug");
+import sa from "./SvelteAdapter";
+
+export default sa;

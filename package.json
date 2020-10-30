@@ -1,7 +1,7 @@
 {
-  "name": "rollup-typescript-starter",
+  "name": "svelte-adapter",
   "version": "0.0.1",
-  "description": "To fast start a typescript library.",
+  "description": "svelte react adapter",
   "main": "lib/bundle.cjs.js",
   "module": "lib/bundle.esm.js",
   "scripts": {
